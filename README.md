@@ -1,5 +1,3 @@
-
-
 ### Putting It All Together
 Think back to week one when you learned how to use terminal. In a short time, you mastered the Ruby basics (data types, variables, methods, data structures, etc.) and laid the foundation for the rest of your career as a Rubyist. Today you'll put that knowledge to the test.
 
@@ -41,4 +39,4 @@ Sure, you already know how to do this with an array, but if you didn't, writing 
 
 **2** Presentation should include a demo of your application, a description of the hardest technical challenge you faced, and a comment on the most fun part of building your application.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-group-project' title='Putting It All Together'>Putting It All Together</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Putting It All Together</p>

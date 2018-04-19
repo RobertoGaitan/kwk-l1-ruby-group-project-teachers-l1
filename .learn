@@ -6,3 +6,5 @@ languages:
   - ruby
 type:
   - group-project
+
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-ruby-group-project.git
