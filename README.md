@@ -20,9 +20,9 @@ Things to think about:
 
 Once you have the big ideas settled, try using pseudo code to plan out methods you will want for your calculator.  As an example, if we were building a method that is supposed to add a city to a list of cities it might look like this:
 ```Ruby
-      def add_city(city, list_of_cities)
-        add a city to a list or array of cities
-      end
+def add_city(city, list_of_cities)
+  # add a city to a list or array of cities
+end
 ```
 
 Sure, you already know how to do this with an array, but if you didn't, writing out what you want the method to look like allows you to focus on what you are going to build so that writing the actual code becomes a separate step.  This also allows all group members to participate in the planning process.  You don't have to know the code you will use right away. Focus on describing the action you want the method to perform. With your group now, spend some time writing out pseudo code for each method you want in your calculator.
