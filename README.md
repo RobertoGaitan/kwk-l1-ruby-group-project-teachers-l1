@@ -6,7 +6,7 @@ In groups of 3-5 students, you must build a command line calculator.
 <img src="https://after-school-assets.s3.amazonaws.com/calculator.gif" width="500px">
 
 ### The Instructions
-**1** You must spend the first 5 minutes as a group with laptops down mapping out the features you want to build and how you want a user to use your calculator. 
+**1** You must spend the first 5 minutes as a group, with laptops down, mapping out the features you want to build and how you want a user to use your calculator. 
 
 Things to think about:
 
